@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simplespinner</string>
+    <string name="hint1">第一个Spinner</string>
+    <string name="text_1">筛选1</string>
+    <string name="text_2">输入控件1</string>
+    <string name="text_dash">-</string>
+    <string name="text_3">输入控件2</string>
+    <string name="text_4">帅选2</string>
+    <string name="text_reset">重置</string>
+    <string name="text_confirm">确定</string>
+</resources>

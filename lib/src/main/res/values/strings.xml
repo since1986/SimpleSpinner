@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleSpinner</string>
+	<string name="spinner_trigger_content_description">spinner_trigger</string>
+</resources>

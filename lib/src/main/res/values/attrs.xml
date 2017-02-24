@@ -1,0 +1,15 @@
+<resources>
+    <attr name="dropdownWidth" format="dimension|reference" />
+    <attr name="dropdownHeight" format="dimension|reference" />
+    <attr name="hint" format="string|reference" />
+    <declare-styleable name="BaseSpinner">
+        <attr name="dropdownWidth" />
+        <attr name="dropdownHeight" />
+        <attr name="hint" />
+    </declare-styleable>
+    <declare-styleable name="SimpleSpinner">
+        <attr name="dropdownWidth" />
+        <attr name="dropdownHeight" />
+        <attr name="hint" />
+    </declare-styleable>
+</resources>

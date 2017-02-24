@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/simple_spinner_value"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxEms="5"
+        android:maxLines="1" />
+
+    <ImageView
+        android:id="@+id/simple_spinner_trigger"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:contentDescription="@string/spinner_trigger_content_description"
+        android:src="@drawable/spinner_trigger" />
+</merge>
